@@ -1,0 +1,23 @@
+{
+  "active": false,
+  "kus": "8c7a9b13-3f4e-4d9e-b9a7-1f2c6e8d5b34",
+  "ads": [
+    {
+      "weight": 1,
+      "urls": {
+        "en": "",
+        "de": "",
+        "fr": "",
+        "ja": "",
+        "zh": ""
+      },
+      "click_urls": {
+        "en": "",
+        "de": "",
+        "fr": "",
+        "ja": "",
+        "zh": ""
+      }
+    }
+  ]
+}
